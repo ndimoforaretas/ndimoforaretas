@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ndimoforaretas
 - 👀 I’m interested in Coding (Full-stack Development) and ICTs for Education in general
-- 🌱 I’m currently learning Full-stack Web Development
-- 💞️ I’m looking to collaborate on Frontend Web Projects
+- 🌱 I’m currently learning AWS Serverless Development
+- 💞️ I’m looking forward to pursuing a career in Tech especially Serverless Services
 - 📫 Feel free to connect with me directly through ndimaret@gmail.com
 
 <!---
