@@ -1,5 +1,9 @@
 - 👋 Hi, I’m @ndimoforaretas
 
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/SUcApSWjPwQMARvcM8/giphy.gif" width="100"/>
+</div>
+
 [![@ndimoforaretas's Holopin board](https://holopin.me/ndimoforaretas)](https://holopin.io/@ndimoforaretas)
 
 - 👀 I’m interested in Coding (Full-stack Development) and ICTs for Education in general
