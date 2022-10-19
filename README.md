@@ -22,6 +22,9 @@
 ![Ndimofor's Github Stats](https://github-readme-stats.vercel.app/api?username=ndimoforaretas&count_private=true&show_icons=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ndimoforaretas&hide=TeX&layout=compact)
 
+![visitors](https://visitor-badge.glitch.me/badge?page_id=ndimoforaretas.visitor-badge&left_color=green&right_color=#fa0760)
+
+
 [![@ndimoforaretas's Holopin board](https://holopin.me/ndimoforaretas)](https://holopin.io/@ndimoforaretas)
 <!---
 ndimoforaretas/ndimoforaretas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
