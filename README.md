@@ -2,12 +2,15 @@
 # Hellooooo! :wave:
 
 
-Welcome to my Github Profile!
+## Welcome to my Github Profile!
 
 
+### Let's Connect:
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> <em><b>I love connecting with different people and working in teams</em>
 
+<br>
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> <em><b>I love connecting with different people and working in teams</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :blush:</em>
+![](https://komarev.com/ghpvc/?username=ndimoforaretas&color=fa0760)
 
 **Languages and Tools:** 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?logo=javascript&style=social)&nbsp;&nbsp;
@@ -19,7 +22,7 @@ Welcome to my Github Profile!
 ![Ndimofor's Github Stats](https://github-readme-stats.vercel.app/api?username=ndimoforaretas&theme=radical&count_private=true&show_icons=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ndimoforaretas&hide=TeX&layout=compact)
 
-![](https://komarev.com/ghpvc/?username=ndimoforaretas&color=fa0760)
+
 
 
 
