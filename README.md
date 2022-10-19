@@ -1,8 +1,6 @@
+[![@ndimoforaretas's Holopin board](https://holopin.me/ndimoforaretas)](https://holopin.io/@ndimoforaretas)
 # Hellooooo! :wave:
 
-# I'm Ndimofor Aretas. 
-
-### A Full-stack Engineer, Open-Source Contributor and STEM Educator
 
 Welcome to my Github Profile!
 
@@ -35,7 +33,7 @@ Welcome to my Github Profile!
 - [**GitHub ReadMe stats**](https://github.com/anuraghazra/github-readme-stats) for the beautiful GitHub ReadMe stats:sunglasses:
 
 
-[![@ndimoforaretas's Holopin board](https://holopin.me/ndimoforaretas)](https://holopin.io/@ndimoforaretas)
+
 <!---
 ndimoforaretas/ndimoforaretas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
