@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ndimoforaretas
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/SUcApSWjPwQMARvcM8/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/ZeFG00TVXs54Pw4c8e/giphy.gif" width="100"/>
 </div>
 
 [![@ndimoforaretas's Holopin board](https://holopin.me/ndimoforaretas)](https://holopin.io/@ndimoforaretas)
