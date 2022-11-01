@@ -70,10 +70,13 @@ Things I have recently experimented with : AWS Amplify Studio, react-bootstrap, 
 
   
 ## Some of my favorite Open Source projects❤️
- <br>
-### Canvas 2022 (Hacktoberfest 2022)
+
+### - Canvas 2022 (Hacktoberfest 2022)
+
+
 # [![Canvaz](https://img.shields.io/badge/CREATIVE%20CSS%20PROJECT-Canvas-4E3188?style=for-the-badge&logo=CSS3)](https://github.com/zero-to-mastery/canvas-2022)
-  > `<canvas>` is an HTML element which can be used to draw graphics via scripting (usually JavaScript). This can, for instance, be used to draw 2D shapes, graphs, combine photos, or create simple (and not so simple) animations.
+  
+> `<canvas>` is an HTML element which can be used to draw graphics via scripting (usually JavaScript). This can, for instance, be used to draw 2D shapes, graphs, combine photos, or create simple (and not so simple) animations.
  
   <br>
   
@@ -81,7 +84,7 @@ This project showcases the creative talents of ZTM students using the HTML `<can
   
 <br>
   
-### Webblocks 2022 (Hacktoberfest 2022)
+### - Webblocks 2022 (Hacktoberfest 2022)
 # ![](https://img.shields.io/badge/Html%20%26%20Javascript%20%26%20CSS%20PROJECT-WebBlocks-00adb5?style=for-the-badge&logo=JavaScript)
  > This project is a showcase library of components using vanilla HTML, CSS and some Javascript.  Built through contributions by ZTM community members
 
