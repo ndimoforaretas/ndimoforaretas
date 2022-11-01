@@ -90,7 +90,7 @@ This project showcases the creative talents of ZTM students using the HTML `<can
 
 
 ([See the project in Action 😃](https://zero-to-mastery.github.io/webblocks-2022/))
-  <b>
+  <br>
  
 <hr/>
   
@@ -105,8 +105,10 @@ This project showcases the creative talents of ZTM students using the HTML `<can
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ndimoforaretas&hide=TeX&layout=compact)
 
  <hr/>
-  
-<h4 align="center"> :pray: Thanks for reading this far!</h4>
+ 
+  <br>
+ 
+<h2 align="center"> :pray: Thanks for reading this far!</h2>
 
 <!-- Credits -->
 ### I stole like an artist from these awesome resources:
