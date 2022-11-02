@@ -1,7 +1,10 @@
+
 ##  :wave: Hellooooo!
 
 # Welcome to my Profile!
 
+![](https://komarev.com/ghpvc/?username=ndimoforaretas&color=fa0760)
+<br>
 [![@ndimoforaretas's Holopin board](https://holopin.me/ndimoforaretas)](https://holopin.io/@ndimoforaretas)
 
 
@@ -96,8 +99,6 @@ This project showcases the creative talents of ZTM students using the HTML `<can
   
 <br>
 
-![](https://komarev.com/ghpvc/?username=ndimoforaretas&color=fa0760)
-<br>
 
 
   
