@@ -42,6 +42,11 @@ Gmail: [![Gmail Badge](https://img.shields.io/badge/-ndimaret@gmail.com-c14438?s
 
 ## 🛠️ My Tech Stack 
 
+
+![Ndimofor Aretas GitHub Header](https://user-images.githubusercontent.com/103340138/200047399-ce93e56f-6d00-40a8-bab3-c5f9f832df1e.png)
+
+
+
 ![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
