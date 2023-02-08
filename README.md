@@ -71,34 +71,6 @@ Stacks I have worked with : MERN , React+Firebase , AWS Amplify+React.
 <br/>  
 Things I have recently experimented with : AWS Amplify Studio, react-bootstrap, Tailwind and a lot of other ui-libs...
 
-  
-<hr/>
-
-
-
-  
-## Some of my favorite Open Source projects❤️
-
-### - Canvas 2022 (Hacktoberfest 2022)
-
-
-# [![Canvaz](https://img.shields.io/badge/CREATIVE%20CSS%20PROJECT-Canvas-4E3188?style=for-the-badge&logo=CSS3)](https://github.com/zero-to-mastery/canvas-2022)
-  
-> `<canvas>` is an HTML element which can be used to draw graphics via scripting (usually JavaScript). This can, for instance, be used to draw 2D shapes, graphs, combine photos, or create simple (and not so simple) animations.
- 
-  <br>
-  
-This project showcases the creative talents of ZTM students using the HTML `<canvas>` element.  ([See the project in Action 😃](https://zero-to-mastery.github.io/canvas-2022/))
-  
-<br>
-  
-### - Webblocks 2022 (Hacktoberfest 2022)
-# ![](https://img.shields.io/badge/Html%20%26%20Javascript%20%26%20CSS%20PROJECT-WebBlocks-00adb5?style=for-the-badge&logo=JavaScript)
- > This project is a showcase library of components using vanilla HTML, CSS and some Javascript.  Built through contributions by ZTM community members
-
-
-([See the project in Action 😃](https://zero-to-mastery.github.io/webblocks-2022/))
-  <br>
  
 <hr/>
   
