@@ -29,8 +29,6 @@ LinkedIn: [![Linkedin Badge](https://img.shields.io/badge/-Ndimofor_Aretas-blue?
 
 Twitter: [![Twitter Badge](https://img.shields.io/badge/-@aretasndi-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/aretasndi)](https://twitter.com/aretasndi)
 
-Gmail: [![Gmail Badge](https://img.shields.io/badge/-ndimaret@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ndimaret@gmail.com)](mailto:ndimaret@gmail.com)
-
 <br>
 
  I can communicate clearly in:
@@ -67,11 +65,6 @@ Gmail: [![Gmail Badge](https://img.shields.io/badge/-ndimaret@gmail.com-c14438?s
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
   
- <br>
-
-Stacks I have worked with : MERN , React+Firebase , AWS Amplify+React.
-<br/>  
-Things I have recently experimented with : AWS Amplify Studio, react-bootstrap, Tailwind and a lot of other ui-libs...
 
  
 <hr/>
