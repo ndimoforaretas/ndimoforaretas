@@ -1,7 +1,7 @@
-n
+
 ##  :wave: Hellooooo!
 
-# Welcome to my Profile!
+# Welcome!
 
 ![](https://komarev.com/ghpvc/?username=ndimoforaretas&color=fa0760)
 <br>
