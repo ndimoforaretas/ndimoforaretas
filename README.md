@@ -13,7 +13,7 @@
 
 ## 🧐 About
 
-I am an experienced full-stack web developer and Trainer with experience in the JavaScript ecosystem (React, NextJS, TypeScript).
+I am an experienced full-stack developer and trainer with experience in the JavaScript ecosystem (React, NextJS, TypeScript).
 
 My strong interpersonal skills have enabled me to work with both local and international teams in implementing projects and training seminars from ideation to completion. 
 
