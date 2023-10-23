@@ -13,13 +13,13 @@
 
 ## 🧐 About
 
-I am a STEM Educator with over 10 years of experience as an autodidact, IT Trainer, and full-stack web developer.
+I am an experienced full-stack web developer and Trainer with experience in the JavaScript ecosystem (React, NextJS, TypeScript).
 
 My strong interpersonal skills have enabled me to work with both local and international teams in implementing projects and training seminars from ideation to completion. 
 
-I am passionate about helping people from non-technical backgrounds understand and make the most use of computers and apps.
+I am also passionate about helping people from non-technical backgrounds understand and make the most use of computers and apps.
 
-Since January 2023, I have been part of the [Digital Career Institute (DCI)](https://digitalcareerinstitute.org/) Web Development Teachers Team in Germany.
+Since January 2023, I have been part of the [Digital Career Institute (DCI)](https://digitalcareerinstitute.org/) Web Development Team in Germany.
 <hr/>
 
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> Let's Connect:
