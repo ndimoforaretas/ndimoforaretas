@@ -1,4 +1,4 @@
-
+n
 ##  :wave: Hellooooo!
 
 # Welcome to my Profile!
@@ -13,11 +13,11 @@
 
 ## 🧐 About
 
-I am an experienced full-stack developer and trainer with experience in the JavaScript ecosystem (React, NextJS, TypeScript).
+I am an experienced full-stack developer and trainer with experience in JavaScript who enjoys working with (React, NextJS, TypeScript).
 
-My strong interpersonal skills have enabled me to work with both local and international teams in implementing projects and training seminars from ideation to completion. 
+My strong interpersonal skills have enabled me to work with local and international teams to implement projects and training seminars from ideation to completion. 
 
-I am also passionate about helping people from non-technical backgrounds understand and make the most use of computers and apps.
+I am also passionate about helping people from non-technical backgrounds understand and use computers and apps most.
 
 Since January 2023, I have been part of the [Digital Career Institute (DCI)](https://digitalcareerinstitute.org/) Web Development Team in Germany.
 <hr/>
