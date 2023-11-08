@@ -1,7 +1,5 @@
 
-##  :wave: Hellooooo!
-
-# Welcome!
+# Welcome 🤗!
 
 ![](https://komarev.com/ghpvc/?username=ndimoforaretas&color=fa0760)
 <br>
@@ -13,7 +11,7 @@
 
 ## 🧐 About
 
-I am an experienced full-stack developer and trainer with experience in JavaScript who enjoys working with (React, NextJS, TypeScript).
+I'm a full-stack developer and trainer with experience in JavaScript who enjoys working with (React, NextJS, TypeScript).
 
 My strong interpersonal skills have enabled me to work with local and international teams to implement projects and training seminars from ideation to completion. 
 
@@ -81,7 +79,6 @@ Twitter: [![Twitter Badge](https://img.shields.io/badge/-@aretasndi-1ca0f1?style
  
   <br>
  
-<h2 align="center"> :pray: Thanks for reading this far!</h2>
 
 <!-- Credits -->
 ### I stole like an artist from these awesome resources:
