@@ -11,7 +11,7 @@
 
 ## 🧐 About
 
-I'm a full-stack developer and trainer with experience in JavaScript who enjoys working with (React, NextJS, TypeScript).
+I'm a full-stack developer,certified SCRUM Master (PSM I), and trainer who enjoys working with (React, NextJS, TypeScript, Python and Go).
 
 My strong interpersonal skills have enabled me to work with local and international teams to implement projects and training seminars from ideation to completion. 
 
