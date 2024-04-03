@@ -6,20 +6,6 @@
 [![@ndimoforaretas's Holopin board](https://holopin.me/ndimoforaretas)](https://holopin.io/@ndimoforaretas)
 
 
-
-
-
-## 🧐 About
-
-I'm a full-stack developer,certified SCRUM Master (PSM I), and trainer who enjoys working with (React, NextJS, TypeScript, Python and Go).
-
-My strong interpersonal skills have enabled me to work with local and international teams to implement projects and training seminars from ideation to completion. 
-
-I am also passionate about helping people from non-technical backgrounds understand and use computers and apps most.
-
-Since January 2023, I have been part of the [Digital Career Institute (DCI)](https://digitalcareerinstitute.org/) Web Development Team in Germany.
-<hr/>
-
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> Let's Connect:
  I love connecting with different people and working in teams!
  
@@ -34,34 +20,6 @@ Twitter: [![Twitter Badge](https://img.shields.io/badge/-@aretasndi-1ca0f1?style
  - 🇱🇷 English
  - 🇫🇷 French
  - 🇩🇪 German(C1)
-  
-
-  <hr/>
-
-## 🛠️ My Tech Stack 
-
-
-![Ndimofor Aretas GitHub Header](https://user-images.githubusercontent.com/103340138/200047399-ce93e56f-6d00-40a8-bab3-c5f9f832df1e.png)
-
-
-
-![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![Material_UI](https://img.shields.io/badge/-Material_UI-black?style=flat-square&logo=material-ui)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=bootstrap)
-![SCSS](https://img.shields.io/badge/-SCSS-black?style=flat-square&logo=SASS)
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![Redux](https://img.shields.io/badge/-Redux-black?style=flat-square&logo=Redux)
-![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
-![Express.js](https://img.shields.io/badge/-Express-black?style=flat-square&logo=expressjs)
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
-![Firebase](https://img.shields.io/badge/-Firebase-black?style=flat-square&logo=Firebase)
-![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript)
-![Netlify](https://img.shields.io/badge/-Netlify-black?style=flat-square&logo=netlify)
-![Vercel](https://img.shields.io/badge/-Vercel-black?style=flat-square&logo=vercel)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
   
 
  
