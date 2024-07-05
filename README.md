@@ -1,7 +1,7 @@
 
 # Welcome 🤗!
 
-![](https://komarev.com/ghpvc/?username=ndimoforaretas&color=fa0760)
+![](https://komarev.com/ghpvc/?username=ndimoforaretas&color=fbbf24)
 <br>
 [![@ndimoforaretas's Holopin board](https://holopin.me/ndimoforaretas)](https://holopin.io/@ndimoforaretas)
 
