@@ -11,7 +11,6 @@
  
 LinkedIn: [![Linkedin Badge](https://img.shields.io/badge/-Ndimofor_Aretas-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ndimofor-ndimofor-aretas-360917119/)](https://www.linkedin.com/in/ndimofor-ndimofor-aretas-360917119/)
 
-Twitter: [![Twitter Badge](https://img.shields.io/badge/-@aretasndi-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/aretasndi)](https://twitter.com/aretasndi)
 
 <br>
 
